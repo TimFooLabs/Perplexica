@@ -1,0 +1,19 @@
+2024-09-23 11:54:02 yarn run v1.22.22
+2024-09-23 11:54:02 $ npm run db:push && node dist/app.js
+2024-09-23 11:54:03 
+2024-09-23 11:54:03 > perplexica-backend@1.9.0-rc2 db:push
+2024-09-23 11:54:03 > drizzle-kit push sqlite
+2024-09-23 11:54:03 
+2024-09-23 11:54:03 drizzle-kit: v0.22.7
+2024-09-23 11:54:03 drizzle-orm: v0.31.2
+2024-09-23 11:54:03 
+2024-09-23 11:54:03 No config path provided, using default path
+2024-09-23 11:54:03 Reading config file '/home/perplexica/drizzle.config.ts'
+2024-09-23 11:54:04 [⣷] Pulling schema from database...
+[✓] Pulling schema from database...
+2024-09-23 11:54:04 
+2024-09-23 11:54:04 [i] No changes detected
+2024-09-23 11:54:04 info: WebSocket server started on port 3001
+2024-09-23 11:54:04 info: Server is running on port 3001
+2024-09-23 11:54:04 (node:61) [DEP0040] DeprecationWarning: The `punycode` module is deprecated. Please use a userland alternative instead.
+2024-09-23 11:54:04 (Use `node --trace-deprecation ...` to show where the warning was created)
