@@ -768,7 +768,7 @@ engines:
     engine: genius
     shortcut: gen
 
-    - name: gentoo
+  - name: gentoo
     engine: mediawiki
     shortcut: ge
     categories: ["it", "software wikis"]
